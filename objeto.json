@@ -1,0 +1,26 @@
+[
+    {
+      "id_obj": "1",
+      "nome_obj": "Placa-mãe",
+      "tipo": "Setor_eletronica",
+      "Estoque": "Esgotado"
+    },
+    {
+      "id_obj": "2",
+      "nome_obj": "Teclado",
+      "tipo": "Setor_periféricos",
+      "Estoque": "Em estoque"
+    },
+    {
+      "id_obj": "3",
+      "nome_obj": "Gopro",
+      "tipo": "setor_periféricos",
+      "Estoque": "Esgotado"
+    },
+    {
+      "id_obj": "4",
+      "nome_obj": "Celular",
+      "tipo": "setor_eletronica",
+      "Estoque": "Em estoque"
+    }
+  ]

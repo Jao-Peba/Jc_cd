@@ -1,0 +1,42 @@
+[
+    {
+      "id":"1",
+      "nome": "JoãoPeba",
+      "data_nascimento": "11/12/1998",
+      "profissao": "Proplayer de Valorant",
+      "escolardade": "Gamer",
+      "estado_civil": "Solteiro",
+      "sexo": "Masculino",
+      "idade": 26
+    },
+    {
+      "id":"2",
+      "nome": "Laricela",
+      "data_nascimento": "20/10/2006",
+      "profissao": "Cientista de Dados Sênior",
+      "escolardade": "Superior",
+      "estado_civil": "Muito que bem",
+      "sexo": "Feminino",
+      "idade": 18
+    },
+    {
+      "id":"3",
+      "nome": "Matheus",
+      "data_nascimento": "12/05/1999",
+      "profissao": "VideoMaker",
+      "escolardade": "Superior",
+      "estado_civil": "Casado",
+      "sexo": "Masculino",
+      "idade": 25
+    },
+    {
+      "id":"4",
+      "nome": "César",
+      "data_nascimento": "31/12/2003",
+      "profissao": "Motorista de aplicativo",
+      "escolardade": "Superior",
+      "estado_civil": "Casado",
+      "sexo": "Masculino",
+      "idade": 21
+    }
+]
